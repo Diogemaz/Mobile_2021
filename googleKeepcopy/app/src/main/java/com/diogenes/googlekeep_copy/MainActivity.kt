@@ -14,7 +14,9 @@ class MainActivity : AppCompatActivity() {
 
         val lista = mutableListOf<anotacao>(
             anotacao(titulo="Tarefas", texto="levar o cachorro para passear, comprar um novo controle de TV"),
-            anotacao(titulo="Para o café da manhã", texto="ovo, pão, leite e café")
+            anotacao(titulo="Para o café da manhã", texto="ovo, pão, leite e café"),
+            anotacao(titulo="Escola", texto="Reunião amanhã"),
+            anotacao(titulo="Trabalho", texto="Vai ser necessario uma nova tecnologia"),
         )
 
         rv.adapter = anotacaoAdapter(lista)
