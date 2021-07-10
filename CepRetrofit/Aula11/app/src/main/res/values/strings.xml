@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aula11</string>
+    <string name="edtHintCEP">Digite seu cep...</string>
+</resources>
