@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App11_CadTasksComFoto</string>
+    <string name="titulo_lista">Lista de Tarefas</string>
+    <string name="titulo_cadastro">Cadastro de Tarefas</string>
+    <string-array name="opcoes_spinner">
+        <item>Pessoal</item>
+        <item>Profissional</item>
+        <item>Ambos</item>
+    </string-array>
+</resources>
